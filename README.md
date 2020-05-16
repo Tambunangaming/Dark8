@@ -1,6 +1,6 @@
 # Dark4
 
-#Pecipta Yoga Wira & Rendy Andhika
+#Pecipta Tambunan Gaming
 $ pkg update
 $ pkg upgrade
 $ pkg install python2
